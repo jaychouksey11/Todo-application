@@ -16,8 +16,11 @@ A beginner-friendly To-Do application built with Java Spring Boot, MySQL databas
 
 <h2>#Tech Stack </h2>
 1.Backend: Java, Spring Boot 
+
 2.Database: MySQL 
+
 3.Frontend: Bootstrap (Thymeleaf templates) 
+
 4.IDE: IntelliJ IDEA
 
 <h2>#Learning Goals</h2>
