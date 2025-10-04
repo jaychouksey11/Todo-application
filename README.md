@@ -1,6 +1,6 @@
 A beginner-friendly To-Do application built with Java Spring Boot, MySQL database, and a clean Bootstrap frontend. This project is designed as a simple CRUD (Create, Read, Update, Delete) application to help beginners understand the basics of Spring Boot backend development, database integration, and server-side rendering with Thymeleaf/Bootstrap.
 
-#Features
+<h2>#Features</h2>
 
 Add new tasks
 View all tasks in a clean UI
